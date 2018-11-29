@@ -1,15 +1,15 @@
 ---
-title: Pulsar Detection and Classification
-subtitle: Using Machine learning to categorizing the GRB polarization data
+title: Pulsar Search Using Machine Learning
+subtitle: classification of pulsars using machine learning
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-07-15
 img: pulsar.jpg
 thumbnail: pulsar-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Soroush Shakeri
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Pulsars are rapidly rotating neutron stars which emit a strong beam of energy through different radiation mechanisms that are not completely  clear to physicists. These very dense stars with a very strong magnetic field used by astrophysicists as a natural laboratories to test fundamental interactions in the extreme conditions. Searching for pulsars is a very labor-intensive process, currently requiring skilled people and hundreds of hours works to examine and interpret plots of data output by analysis programs. An automated system for screening the plots will speed up the search for pulsars by a very large factor.  I will talk about using machine learning in order to classification of pulsars.
 
 ---

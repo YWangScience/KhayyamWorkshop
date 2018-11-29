@@ -39,7 +39,36 @@ people:
       url: #
     - title: linkedin
       url: #
-
+- name: Soroush Shakeri
+  pic: 4
+  position: IPM
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+- name: Carlos Brandt
+  pic: 0
+  position: Affiliation
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+- name: Name Name
+  pic: 0
+  position: Affiliation
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

@@ -5,8 +5,8 @@
     <description>Machine Learning in Astronomy and Physics</description>
     <link>http://khayyam.org/</link>
     <atom:link href="http://khayyam.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Nov 2018 05:49:52 +0100</pubDate>
-    <lastBuildDate>Thu, 29 Nov 2018 05:49:52 +0100</lastBuildDate>
+    <pubDate>Thu, 29 Nov 2018 16:40:59 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Nov 2018 16:40:59 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -62,12 +62,12 @@
       </item>
     
       <item>
-        <title>Inferences from Spectrum</title>
+        <title>Pulsar Search Using Machine Learning</title>
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://khayyam.org/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://khayyam.org/web%20development/2014/07/15/project-6/</guid>
+        <link>http://khayyam.org/web%20development/2014/07/15/project-5/</link>
+        <guid isPermaLink="true">http://khayyam.org/web%20development/2014/07/15/project-5/</guid>
         
         
         <category>Web Development</category>
@@ -75,12 +75,12 @@
       </item>
     
       <item>
-        <title>Pulsar Detection and Classification</title>
+        <title>Inferences from Spectrum</title>
         <description>
 </description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://khayyam.org/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://khayyam.org/web%20development/2014/07/14/project-5/</guid>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://khayyam.org/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://khayyam.org/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
