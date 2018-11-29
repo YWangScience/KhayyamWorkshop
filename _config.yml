@@ -9,9 +9,19 @@ description: "Machine Learning in Astronomy and Physics"
 
 # Team names, titles and social links
 people:
-- name: Rahim Moradi
+- name: Reza Mansouri
   pic: 1
-  position: Lead Designer
+  position: IPM & Sharif University of Technology
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #	
+- name: Rahim Moradi
+  pic: 2
+  position: ICRANet & University of Rome - Sapienza
   social:
     - title: twitter
       url: #
@@ -19,10 +29,9 @@ people:
       url: #
     - title: stack-overflow
       url: #
-
 - name: Yu Wang
-  pic: 2
-  position: Lead Marketer
+  pic: 3
+  position: ICRANet & University of Rome - Sapienza
   social:
     - title: twitter
       url: #
